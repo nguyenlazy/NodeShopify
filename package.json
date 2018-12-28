@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tthainguyen/NodeShopify#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "raw-body": "^2.3.3"
   }
 }
